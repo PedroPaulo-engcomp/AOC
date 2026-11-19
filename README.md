@@ -36,3 +36,17 @@ Esse é o repositório oficial de projetos do curso "Build a Modern Computer fro
 - FullAdder
 - Inc16
 - ALU
+
+#### 03 - Implementação da Memória
+- Registrador de 1 bit
+- Registrador de 16 bits
+- Program counter
+- RAM8
+- RAM64
+- RAM512
+- RAM4K
+- RAM16K
+
+#### 04 - Implementação da Linguagem de Máquina
+- Programa Fill
+- Programa Mult
